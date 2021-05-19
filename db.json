@@ -1,4 +1,4 @@
-Patients:[
+{ Patients:[
   {
     "mrn": "A00001",
     "name": "May Li",
@@ -223,3 +223,4 @@ Patients:[
     "dateCreated": "2021-05-17T03:39:07.045Z"
   }
 ]
+}

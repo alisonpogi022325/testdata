@@ -15,7 +15,8 @@
     "dateCreated": "2021-05-27T03:39:07.045Z",
     "ward":"WARD21-243-23",
     "queue":"A2.1",
-    "remarks":"For Annual Physical Examination"
+    "remarks":"For Annual Physical Examination",
+    "taskType":"Lab Result Review"
   },
   {
     "mrn": "A00002",
@@ -32,7 +33,8 @@
     "dateCreated": "2021-05-27T03:39:07.045Z",
       "ward":"WARD21-243-24",
     "queue":"A2.2",
-      "remarks":"For Annual Physical Examination"
+      "remarks":"For Annual Physical Examination",
+     "taskType":"Observation/Assessment"
   },
   {
     "mrn": "A00003",
@@ -49,7 +51,8 @@
     "dateCreated": "2021-05-27T03:39:07.045Z",
       "ward":"WARD21-243-25",
     "queue":"A2.3",
-      "remarks":"For Annual Physical Examination"
+      "remarks":"For Annual Physical Examination",
+     "taskType":"General Checkup"
   },
   {
     "mrn": "A00004",
@@ -66,7 +69,8 @@
     "dateCreated": "2021-05-27T03:39:07.045Z",
     "ward":"WARD21-243-26",
     "queue":"A2.4",
-      "remarks":"For Annual Physical Examination"
+      "remarks":"For Annual Physical Examination",
+    "taskType":"General Checkup"
   },
   {
     "mrn": "A00005",
@@ -83,7 +87,8 @@
     "dateCreated": "2021-05-28T03:39:07.045Z",
       "ward":"WARD21-243-27",
     "queue":"A2.5",
-      "remarks":"For Annual Physical Examination"
+      "remarks":"For Annual Physical Examination",
+    "taskType":"General Checkup"
   },
   {
     "mrn": "A00006",
@@ -100,7 +105,8 @@
     "dateCreated": "2021-05-28T03:39:07.045Z",
     "ward":"WARD21-243-28",
     "queue":"A2.6",
-      "remarks":"For Annual Physical Examination"
+      "remarks":"For Annual Physical Examination",
+    "taskType":"General Checkup"
   },
   {
     "mrn": "A00007",
@@ -117,7 +123,8 @@
     "dateCreated": "2021-05-26T03:39:07.045Z",
       "ward":"WARD21-243-29",
     "queue":"A2.7",
-      "remarks":"For Annual Physical Examination"
+      "remarks":"For Annual Physical Examination",
+    "taskType":"General Checkup"
   },
   {
     "mrn": "A00008",
@@ -134,7 +141,8 @@
     "dateCreated": "2021-05-26T03:39:07.045Z",
     "ward":"WARD21-243-30",
     "queue":"A2.8",
-      "remarks":"For Annual Physical Examination"
+      "remarks":"For Annual Physical Examination",
+    "taskType":"Lab Result Review"
   },
   {
     "mrn": "A00009",
@@ -151,7 +159,8 @@
     "dateCreated": "2021-05-26T03:39:07.045Z",
     "ward":"WARD21-243-31",
     "queue":"A2.9",
-      "remarks":"For Annual Physical Examination"
+      "remarks":"For Annual Physical Examination",
+    "taskType":"Lab Result Review"
   },
   {
     "mrn": "A00010",
@@ -168,7 +177,8 @@
     "dateCreated": "2021-05-26T03:39:07.045Z",
     "ward":"WARD21-243-32",
     "queue":"A2.10",
-      "remarks":"For Annual Physical Examination"
+      "remarks":"For Annual Physical Examination",
+    "taskType":"Lab Result Review"
   },
   {
     "mrn": "A00011",
@@ -184,7 +194,8 @@
     "dateCreated": "2021-05-27T03:39:07.045Z",
     "ward":"WARD21-243-33",
     "queue":"A2.11",
-      "remarks":"For Annual Physical Examination"
+      "remarks":"For Annual Physical Examination",
+    "taskType":"Lab Result Review"
   },
   {
     "mrn": "A00012",
@@ -201,7 +212,8 @@
     "dateCreated": "2021-05-27T03:39:07.045Z",
     "ward":"WARD21-243-34",
     "queue":"A2.12",
-      "remarks":"For Annual Physical Examination"
+      "remarks":"For Annual Physical Examination",
+    "taskType":"Observation/Assessment"
   },
   {
     "mrn": "A00013",
@@ -218,7 +230,8 @@
     "dateCreated": "2021-05-27T03:39:07.045Z",
     "ward":"WARD21-243-35",
     "queue":"A2.13",
-      "remarks":"For Annual Physical Examination"
+      "remarks":"For Annual Physical Examination",
+     "taskType":"Observation/Assessment"
   },
   {
     "mrn": "A00014",
@@ -235,7 +248,8 @@
     "dateCreated": "2021-05-28T03:39:07.045Z",
     "ward":"WARD21-243-36",
     "queue":"A2.14",
-      "remarks":"For Annual Physical Examination"
+      "remarks":"For Annual Physical Examination",
+     "taskType":"Observation/Assessment"
   },
   {
     "mrn": "A00015",
@@ -252,7 +266,8 @@
     "dateCreated": "2021-05-26T03:39:07.045Z",
     "ward":"WARD21-243-37",
     "queue":"A2.15",
-      "remarks":"For Annual Physical Examination"
+      "remarks":"For Annual Physical Examination",
+     "taskType":"Observation/Assessment"
   },
   {
     "mrn": "A00016",
@@ -269,7 +284,8 @@
     "dateCreated": "2021-05-27T03:39:07.045Z",
     "ward":"WARD21-243-38",
     "queue":"A2.16",
-    "remarks":"For Annual Physical Examination"
+    "remarks":"For Annual Physical Examination",
+     "taskType":"Observation/Assessment"
   }
 ]
 }

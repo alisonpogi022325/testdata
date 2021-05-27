@@ -14,7 +14,7 @@
     "description": "SGOT Test Result Assesment",
     "dateCreated": "2021-05-11T03:39:07.045Z",
     "ward":"Ward21-243-23",
-    "queue":"A2.1",
+    "queue":"A2.1"
   },
   {
     "mrn": "A00002",
@@ -30,7 +30,7 @@
     "description": "Physical Examination",
     "dateCreated": "2021-05-11T03:39:07.045Z",
       "ward":"Ward21-243-24",
-    "queue":"A2.2",
+    "queue":"A2.2"
   },
   {
     "mrn": "A00003",
@@ -46,7 +46,7 @@
     "description": "Chest X-Ray",
     "dateCreated": "2021-05-11T03:39:07.045Z",
       "ward":"Ward21-243-25",
-    "queue":"A2.3",
+    "queue":"A2.3"
   },
   {
     "mrn": "A00004",
@@ -62,7 +62,7 @@
     "description": "Follow-Up Check-Up",
     "dateCreated": "2021-05-11T03:39:07.045Z",
       "ward":"Ward21-243-26",
-    "queue":"A2.4",
+    "queue":"A2.4"
   },
   {
     "mrn": "A00005",
@@ -78,7 +78,7 @@
     "description": "SGOT Test Result Assesment",
     "dateCreated": "2021-05-11T03:39:07.045Z",
       "ward":"Ward21-243-27",
-    "queue":"A2.5",
+    "queue":"A2.5"
   },
   {
     "mrn": "A00006",
@@ -93,8 +93,8 @@
     "time": "10:00 AM - 10:30 AM",
     "description": "Physical Examination",
     "dateCreated": "2021-05-11T03:39:07.045Z",
-      "ward":"Ward21-243-28",
-    "queue":"A2.6",
+    "ward":"Ward21-243-28",
+    "queue":"A2.6"
   },
   {
     "mrn": "A00007",
@@ -110,7 +110,7 @@
     "description": "Stool Test Result Assesment",
     "dateCreated": "2021-05-11T03:39:07.045Z",
       "ward":"Ward21-243-29",
-    "queue":"A2.7",
+    "queue":"A2.7"
   },
   {
     "mrn": "A00008",
@@ -125,8 +125,8 @@
     "time": "10:00 AM - 10:30 AM",
     "description": "MRI Scan Result Assesment",
     "dateCreated": "2021-05-11T03:39:07.045Z",
-      "ward":"Ward21-243-30",
-    "queue":"A2.8",
+    "ward":"Ward21-243-30",
+    "queue":"A2.8"
   },
   {
     "mrn": "A00009",
@@ -141,8 +141,8 @@
     "time": "09:00 AM - 09:30 AM",
     "description": "Physical Examination",
     "dateCreated": "2021-05-13T03:39:07.045Z",
-      "ward":"Ward21-243-31",
-    "queue":"A2.9",
+    "ward":"Ward21-243-31",
+    "queue":"A2.9"
   },
   {
     "mrn": "A00010",
@@ -157,8 +157,8 @@
     "time": "10:00 AM - 10:30 AM",
     "description": "Physical Examination",
     "dateCreated": "2021-05-14T03:39:07.045Z",
-      "ward":"Ward21-243-32",
-    "queue":"A2.10",
+    "ward":"Ward21-243-32",
+    "queue":"A2.10"
   },
   {
     "mrn": "A00011",
@@ -172,8 +172,8 @@
     "location": "101 A",
     "time": "09:00 AM - 09:30 AM",
     "dateCreated": "2021-05-14T03:39:07.045Z",
-      "ward":"Ward21-243-33",
-    "queue":"A2.11",
+    "ward":"Ward21-243-33",
+    "queue":"A2.11"
   },
   {
     "mrn": "A00012",
@@ -188,8 +188,8 @@
     "time": "10:00 AM - 10:30 AM",
     "description": "Physical Examination",
     "dateCreated": "2021-05-14T03:39:07.045Z",
-      "ward":"Ward21-243-34",
-    "queue":"A2.12",
+    "ward":"Ward21-243-34",
+    "queue":"A2.12"
   },
   {
     "mrn": "A00013",
@@ -204,8 +204,8 @@
     "time": "09:00 AM - 09:30 AM",
     "description": "Physical Examination",
     "dateCreated": "2021-05-15T03:39:07.045Z",
-      "ward":"Ward21-243-35",
-    "queue":"A2.13",
+    "ward":"Ward21-243-35",
+    "queue":"A2.13"
   },
   {
     "mrn": "A00014",
@@ -220,8 +220,8 @@
     "time": "10:00 AM - 10:30 AM",
     "description": "Physical Examination",
     "dateCreated": "2021-05-16T03:39:07.045Z",
-      "ward":"Ward21-243-36",
-    "queue":"A2.14",
+    "ward":"Ward21-243-36",
+    "queue":"A2.14"
   },
   {
     "mrn": "A00015",
@@ -236,8 +236,8 @@
     "time": "09:00 AM - 09:30 AM",
     "description": "SGOT Test Result Assesment",
     "dateCreated": "2021-05-16T03:39:07.045Z",
-      "ward":"Ward21-243-37",
-    "queue":"A2.15",
+    "ward":"Ward21-243-37",
+    "queue":"A2.15"
   },
   {
     "mrn": "A00016",
@@ -252,8 +252,8 @@
     "time": "10:00 AM - 10:30 AM",
     "description": "SGOT Test Result Assesment",
     "dateCreated": "2021-05-17T03:39:07.045Z",
-      "ward":"Ward21-243-38",
-    "queue":"A2.16",
+    "ward":"Ward21-243-38",
+    "queue":"A2.16"
   }
 ]
 }

@@ -64,7 +64,7 @@
     "time": "10:00 AM - 10:30 AM",
     "description": "Follow-Up Check-Up",
     "dateCreated": "2021-05-27T03:39:07.045Z",
-      "ward":"WARD21-243-26",
+    "ward":"WARD21-243-26",
     "queue":"A2.4",
       "remarks":"For Annual Physical Examination"
   },

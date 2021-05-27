@@ -14,7 +14,8 @@
     "description": "SGOT Test Result Assesment",
     "dateCreated": "2021-05-27T03:39:07.045Z",
     "ward":"WARD21-243-23",
-    "queue":"A2.1"
+    "queue":"A2.1",
+    "remarks":"For Annual Physical Examination"
   },
   {
     "mrn": "A00002",
@@ -30,7 +31,8 @@
     "description": "Physical Examination",
     "dateCreated": "2021-05-27T03:39:07.045Z",
       "ward":"WARD21-243-24",
-    "queue":"A2.2"
+    "queue":"A2.2",
+      "remarks":"For Annual Physical Examination"
   },
   {
     "mrn": "A00003",
@@ -46,7 +48,8 @@
     "description": "Chest X-Ray",
     "dateCreated": "2021-05-27T03:39:07.045Z",
       "ward":"WARD21-243-25",
-    "queue":"A2.3"
+    "queue":"A2.3",
+      "remarks":"For Annual Physical Examination"
   },
   {
     "mrn": "A00004",
@@ -62,7 +65,8 @@
     "description": "Follow-Up Check-Up",
     "dateCreated": "2021-05-27T03:39:07.045Z",
       "ward":"WARD21-243-26",
-    "queue":"A2.4"
+    "queue":"A2.4",
+      "remarks":"For Annual Physical Examination"
   },
   {
     "mrn": "A00005",
@@ -78,7 +82,8 @@
     "description": "SGOT Test Result Assesment",
     "dateCreated": "2021-05-28T03:39:07.045Z",
       "ward":"WARD21-243-27",
-    "queue":"A2.5"
+    "queue":"A2.5",
+      "remarks":"For Annual Physical Examination"
   },
   {
     "mrn": "A00006",
@@ -94,7 +99,8 @@
     "description": "Physical Examination",
     "dateCreated": "2021-05-28T03:39:07.045Z",
     "ward":"WARD21-243-28",
-    "queue":"A2.6"
+    "queue":"A2.6",
+      "remarks":"For Annual Physical Examination"
   },
   {
     "mrn": "A00007",
@@ -110,7 +116,8 @@
     "description": "Stool Test Result Assesment",
     "dateCreated": "2021-05-26T03:39:07.045Z",
       "ward":"WARD21-243-29",
-    "queue":"A2.7"
+    "queue":"A2.7",
+      "remarks":"For Annual Physical Examination"
   },
   {
     "mrn": "A00008",
@@ -126,7 +133,8 @@
     "description": "MRI Scan Result Assesment",
     "dateCreated": "2021-05-26T03:39:07.045Z",
     "ward":"WARD21-243-30",
-    "queue":"A2.8"
+    "queue":"A2.8",
+      "remarks":"For Annual Physical Examination"
   },
   {
     "mrn": "A00009",
@@ -142,7 +150,8 @@
     "description": "Physical Examination",
     "dateCreated": "2021-05-26T03:39:07.045Z",
     "ward":"WARD21-243-31",
-    "queue":"A2.9"
+    "queue":"A2.9",
+      "remarks":"For Annual Physical Examination"
   },
   {
     "mrn": "A00010",
@@ -158,7 +167,8 @@
     "description": "Physical Examination",
     "dateCreated": "2021-05-26T03:39:07.045Z",
     "ward":"WARD21-243-32",
-    "queue":"A2.10"
+    "queue":"A2.10",
+      "remarks":"For Annual Physical Examination"
   },
   {
     "mrn": "A00011",
@@ -173,7 +183,8 @@
     "time": "09:00 AM - 09:30 AM",
     "dateCreated": "2021-05-27T03:39:07.045Z",
     "ward":"WARD21-243-33",
-    "queue":"A2.11"
+    "queue":"A2.11",
+      "remarks":"For Annual Physical Examination"
   },
   {
     "mrn": "A00012",
@@ -189,7 +200,8 @@
     "description": "Physical Examination",
     "dateCreated": "2021-05-27T03:39:07.045Z",
     "ward":"WARD21-243-34",
-    "queue":"A2.12"
+    "queue":"A2.12",
+      "remarks":"For Annual Physical Examination"
   },
   {
     "mrn": "A00013",
@@ -205,7 +217,8 @@
     "description": "Physical Examination",
     "dateCreated": "2021-05-27T03:39:07.045Z",
     "ward":"WARD21-243-35",
-    "queue":"A2.13"
+    "queue":"A2.13",
+      "remarks":"For Annual Physical Examination"
   },
   {
     "mrn": "A00014",
@@ -221,7 +234,8 @@
     "description": "Physical Examination",
     "dateCreated": "2021-05-28T03:39:07.045Z",
     "ward":"WARD21-243-36",
-    "queue":"A2.14"
+    "queue":"A2.14",
+      "remarks":"For Annual Physical Examination"
   },
   {
     "mrn": "A00015",
@@ -237,7 +251,8 @@
     "description": "SGOT Test Result Assesment",
     "dateCreated": "2021-05-26T03:39:07.045Z",
     "ward":"WARD21-243-37",
-    "queue":"A2.15"
+    "queue":"A2.15",
+      "remarks":"For Annual Physical Examination"
   },
   {
     "mrn": "A00016",
@@ -253,7 +268,8 @@
     "description": "SGOT Test Result Assesment",
     "dateCreated": "2021-05-27T03:39:07.045Z",
     "ward":"WARD21-243-38",
-    "queue":"A2.16"
+    "queue":"A2.16",
+      "remarks":"For Annual Physical Examination"
   }
 ]
 }

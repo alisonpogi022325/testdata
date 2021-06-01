@@ -1,5 +1,5 @@
 {
- "GPC":{
+
    "users":[
     {
      "userid":"1",
@@ -323,5 +323,5 @@
     "LocationType":"Sick Bay"
       }
     ]
-  }
+  
 }

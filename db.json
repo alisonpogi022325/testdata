@@ -35,7 +35,8 @@
     "ward":"WARD21-243-23",
     "queue":"A2.1",
     "remarks":"For Annual Physical Examination",
-    "taskType":"Lab Result Review"
+    "taskType":"Lab Result Review",
+    "LocationType":"Sick Bay"
   },
   {
     "mrn": "A00002",
@@ -53,7 +54,8 @@
       "ward":"WARD21-243-24",
     "queue":"A2.2",
       "remarks":"For Annual Physical Examination",
-     "taskType":"Observation/Assessment"
+     "taskType":"Observation/Assessment",
+    "LocationType":"Sick Bay"
   },
   {
     "mrn": "A00003",
@@ -71,7 +73,8 @@
       "ward":"WARD21-243-25",
     "queue":"A2.3",
       "remarks":"For Annual Physical Examination",
-     "taskType":"General Checkup"
+     "taskType":"General Checkup",
+    "LocationType":"Sick Bay"
   },
   {
     "mrn": "A00004",
@@ -89,7 +92,8 @@
     "ward":"WARD21-243-26",
     "queue":"A2.4",
       "remarks":"For Annual Physical Examination",
-    "taskType":"General Checkup"
+    "taskType":"General Checkup",
+    "LocationType":"Prison Cell"
   },
   {
     "mrn": "A00005",
@@ -107,7 +111,8 @@
       "ward":"WARD21-243-27",
     "queue":"A2.5",
       "remarks":"For Annual Physical Examination",
-    "taskType":"General Checkup"
+    "taskType":"General Checkup",
+     "LocationType":"Prison Cell"
   },
   {
     "mrn": "A00006",
@@ -125,7 +130,8 @@
     "ward":"WARD21-243-28",
     "queue":"A2.6",
       "remarks":"For Annual Physical Examination",
-    "taskType":"General Checkup"
+    "taskType":"General Checkup",
+     "LocationType":"Prison Cell"
   },
   {
     "mrn": "A00007",
@@ -143,7 +149,8 @@
       "ward":"WARD21-243-29",
     "queue":"A2.7",
       "remarks":"For Annual Physical Examination",
-    "taskType":"General Checkup"
+    "taskType":"General Checkup",
+     "LocationType":"Sick Bay"
   },
   {
     "mrn": "A00008",
@@ -161,7 +168,8 @@
     "ward":"WARD21-243-30",
     "queue":"A2.8",
       "remarks":"For Annual Physical Examination",
-    "taskType":"Lab Result Review"
+    "taskType":"Lab Result Review",
+    "LocationType":"Sick Bay"
   },
   {
     "mrn": "A00009",
@@ -179,7 +187,8 @@
     "ward":"WARD21-243-31",
     "queue":"A2.9",
       "remarks":"For Annual Physical Examination",
-    "taskType":"Lab Result Review"
+    "taskType":"Lab Result Review",
+    "LocationType":"Sick Bay"
   },
   {
     "mrn": "A00010",
@@ -197,7 +206,8 @@
     "ward":"WARD21-243-32",
     "queue":"A2.10",
       "remarks":"For Annual Physical Examination",
-    "taskType":"Lab Result Review"
+    "taskType":"Lab Result Review",
+    "LocationType":"Prison Cell"
   },
   {
     "mrn": "A00011",
@@ -214,7 +224,8 @@
     "ward":"WARD21-243-33",
     "queue":"A2.11",
       "remarks":"For Annual Physical Examination",
-    "taskType":"Lab Result Review"
+    "taskType":"Lab Result Review",
+    "LocationType":"Prison Cell"
   },
   {
     "mrn": "A00012",
@@ -232,7 +243,8 @@
     "ward":"WARD21-243-34",
     "queue":"A2.12",
       "remarks":"For Annual Physical Examination",
-    "taskType":"Observation/Assessment"
+    "taskType":"Observation/Assessment",
+    "LocationType":"Prison Cell"
   },
   {
     "mrn": "A00013",
@@ -250,7 +262,8 @@
     "ward":"WARD21-243-35",
     "queue":"A2.13",
       "remarks":"For Annual Physical Examination",
-     "taskType":"Observation/Assessment"
+     "taskType":"Observation/Assessment",
+    "LocationType":"Prison Cell"
   },
   {
     "mrn": "A00014",
@@ -268,7 +281,8 @@
     "ward":"WARD21-243-36",
     "queue":"A2.14",
       "remarks":"For Annual Physical Examination",
-     "taskType":"Observation/Assessment"
+     "taskType":"Observation/Assessment",
+    "LocationType":"Sick Bay"
   },
   {
     "mrn": "A00015",
@@ -286,7 +300,8 @@
     "ward":"WARD21-243-37",
     "queue":"A2.15",
       "remarks":"For Annual Physical Examination",
-     "taskType":"Observation/Assessment"
+     "taskType":"Observation/Assessment",
+    "LocationType":"Prison Cell"
   },
   {
     "mrn": "A00016",
@@ -304,7 +319,8 @@
     "ward":"WARD21-243-38",
     "queue":"A2.16",
     "remarks":"For Annual Physical Examination",
-     "taskType":"Observation/Assessment"
+     "taskType":"Observation/Assessment",
+    "LocationType":"Sick Bay"
       }
     ]
   }

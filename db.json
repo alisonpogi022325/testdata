@@ -2,12 +2,14 @@
  "GPC":{
    "users":[
     {
+     "userid":"1",
      "username":"john",
      "password":"doe",
      "role":"nurse",
      "fullname":"John Doe"
     },
     {
+       "userid":"2",
        "username":"angkianchuan",
      "password":"123456",
      "role":"doctor",

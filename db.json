@@ -36,7 +36,7 @@
     "queue":"A2.1",
     "remarks":"For Annual Physical Examination",
     "taskType":"Lab Result Review",
-    "LocationType":"Sick Bay"
+    "locationType":"Sick Bay"
   },
   {
     "mrn": "A00002",
@@ -55,7 +55,7 @@
     "queue":"A2.2",
       "remarks":"For Annual Physical Examination",
      "taskType":"Observation/Assessment",
-    "LocationType":"Sick Bay"
+    "locationType":"Sick Bay"
   },
   {
     "mrn": "A00003",
@@ -74,7 +74,7 @@
     "queue":"A2.3",
       "remarks":"For Annual Physical Examination",
      "taskType":"General Checkup",
-    "LocationType":"Sick Bay"
+    "locationType":"Sick Bay"
   },
   {
     "mrn": "A00004",
@@ -93,7 +93,7 @@
     "queue":"A2.4",
       "remarks":"For Annual Physical Examination",
     "taskType":"General Checkup",
-    "LocationType":"Prison Cell"
+    "locationType":"Prison Cell"
   },
   {
     "mrn": "A00005",
@@ -112,7 +112,7 @@
     "queue":"A2.5",
       "remarks":"For Annual Physical Examination",
     "taskType":"General Checkup",
-     "LocationType":"Prison Cell"
+     "locationType":"Prison Cell"
   },
   {
     "mrn": "A00006",
@@ -131,7 +131,7 @@
     "queue":"A2.6",
       "remarks":"For Annual Physical Examination",
     "taskType":"General Checkup",
-     "LocationType":"Prison Cell"
+     "locationType":"Prison Cell"
   },
   {
     "mrn": "A00007",
@@ -150,7 +150,7 @@
     "queue":"A2.7",
       "remarks":"For Annual Physical Examination",
     "taskType":"General Checkup",
-     "LocationType":"Sick Bay"
+     "locationType":"Sick Bay"
   },
   {
     "mrn": "A00008",
@@ -169,7 +169,7 @@
     "queue":"A2.8",
       "remarks":"For Annual Physical Examination",
     "taskType":"Lab Result Review",
-    "LocationType":"Sick Bay"
+    "locationType":"Sick Bay"
   },
   {
     "mrn": "A00009",
@@ -188,7 +188,7 @@
     "queue":"A2.9",
       "remarks":"For Annual Physical Examination",
     "taskType":"Lab Result Review",
-    "LocationType":"Sick Bay"
+    "locationType":"Sick Bay"
   },
   {
     "mrn": "A00010",
@@ -207,7 +207,7 @@
     "queue":"A2.10",
       "remarks":"For Annual Physical Examination",
     "taskType":"Lab Result Review",
-    "LocationType":"Prison Cell"
+    "locationType":"Prison Cell"
   },
   {
     "mrn": "A00011",
@@ -225,7 +225,7 @@
     "queue":"A2.11",
       "remarks":"For Annual Physical Examination",
     "taskType":"Lab Result Review",
-    "LocationType":"Prison Cell"
+    "locationType":"Prison Cell"
   },
   {
     "mrn": "A00012",
@@ -244,7 +244,7 @@
     "queue":"A2.12",
       "remarks":"For Annual Physical Examination",
     "taskType":"Observation/Assessment",
-    "LocationType":"Prison Cell"
+    "locationType":"Prison Cell"
   },
   {
     "mrn": "A00013",
@@ -263,7 +263,7 @@
     "queue":"A2.13",
       "remarks":"For Annual Physical Examination",
      "taskType":"Observation/Assessment",
-    "LocationType":"Prison Cell"
+    "locationType":"Prison Cell"
   },
   {
     "mrn": "A00014",
@@ -282,7 +282,7 @@
     "queue":"A2.14",
       "remarks":"For Annual Physical Examination",
      "taskType":"Observation/Assessment",
-    "LocationType":"Sick Bay"
+    "locationType":"Sick Bay"
   },
   {
     "mrn": "A00015",
@@ -301,7 +301,7 @@
     "queue":"A2.15",
       "remarks":"For Annual Physical Examination",
      "taskType":"Observation/Assessment",
-    "LocationType":"Prison Cell"
+    "locationType":"Prison Cell"
   },
   {
     "mrn": "A00016",
@@ -320,7 +320,7 @@
     "queue":"A2.16",
     "remarks":"For Annual Physical Examination",
      "taskType":"Observation/Assessment",
-    "LocationType":"Sick Bay"
+    "locationType":"Sick Bay"
       }
     ]
    }

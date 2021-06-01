@@ -1,6 +1,21 @@
 {
- 
-  
+ "GPC":{
+   "users":[
+    {
+     "username":"john",
+     "password":"doe",
+     "role":"nurse",
+     "fullname":"John Doe"
+    },
+    {
+       "username":"angkianchuan",
+     "password":"123456",
+     "role":"doctor",
+     "fullname":"Ang Kian Chuan"
+    }
+    
+   ],
+   
   "patients":[
   {
     "mrn": "A00001",
@@ -288,6 +303,7 @@
     "queue":"A2.16",
     "remarks":"For Annual Physical Examination",
      "taskType":"Observation/Assessment"
+      }
+    ]
   }
-]
 }

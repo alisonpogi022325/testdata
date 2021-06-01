@@ -5,9 +5,11 @@
     "password":"doe",
     "usertype":"nurse",
     },
+    {
      "username":"angkianchuan",
     "password":"123456",
     "usertype":"doctor",
+    }
     ],
   
   "patients":[

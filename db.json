@@ -1,5 +1,5 @@
 {
- "GPC":[{
+ "GPC":{
    "users":[
     {
      "userid":"1",
@@ -307,5 +307,5 @@
      "taskType":"Observation/Assessment"
       }
     ]
-  }]
+  }
 }

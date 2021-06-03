@@ -4,14 +4,14 @@
     {
      "userid":"1",
      "username":"john",
-     "password":"doe",
+     "password":"799ef92a11af918e3fb741df42934f3b568ed2d93ac1df74f1b8d41a27932a6f",
      "role":"nurse",
      "fullname":"John Doe"
     },
     {
        "userid":"2",
        "username":"angkianchuan",
-     "password":"123456",
+     "password":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
      "role":"doctor",
      "fullname":"Ang Kian Chuan"
     }

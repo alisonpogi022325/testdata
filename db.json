@@ -5,9 +5,9 @@
      "userid":"1",
      "username":"john",
      "password":"799ef92a11af918e3fb741df42934f3b568ed2d93ac1df74f1b8d41a27932a6f",
-     "role":"nurse",
+     "role":"doctor",
      "fullname":"John Doe",
-      "position":"Nurse"
+      "position":"MD, General Practitioner"
     },
     {
        "userid":"2",

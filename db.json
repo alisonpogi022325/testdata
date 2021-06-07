@@ -1,9 +1,9 @@
 {
    
-   response:[{
-      ok:200,
-      notFound:404
-   }],
+   "response":{
+      "ok":200,
+      "notFound":404
+   },
 
    "users":[
     {

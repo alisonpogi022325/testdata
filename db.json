@@ -1,4 +1,9 @@
 {
+   
+   response:{
+      ok:200,
+      notFound:404
+   }
 
    "users":[
     {
@@ -38,7 +43,8 @@
     "queue":"A2.1",
     "remarks":"For Annual Physical Examination",
     "taskType":"Lab Result Review",
-    "locationType":"Sick Bay"
+    "locationType":"Sick Bay",
+    "appointmentTime": "2021-06-07T08:39:07.045Z"
   },
   {
     "mrn": "A00002",
@@ -57,7 +63,8 @@
     "queue":"A2.2",
       "remarks":"For Annual Physical Examination",
      "taskType":"Observation/Assessment",
-    "locationType":"Sick Bay"
+    "locationType":"Sick Bay",
+     "appointmentTime": "2021-06-07T08:40:07.045Z"
   },
   {
     "mrn": "A00003",
@@ -76,7 +83,8 @@
     "queue":"A2.3",
       "remarks":"For Annual Physical Examination",
      "taskType":"General Checkup",
-    "locationType":"Sick Bay"
+    "locationType":"Sick Bay",
+      "appointmentTime": "2021-06-07T09:40:07.045Z"
   },
   {
     "mrn": "A00004",
@@ -95,7 +103,8 @@
     "queue":"A2.4",
       "remarks":"For Annual Physical Examination",
     "taskType":"General Checkup",
-    "locationType":"Prison Cell"
+    "locationType":"Prison Cell",
+      "appointmentTime": "2021-06-07T08:30:07.045Z"
   },
   {
     "mrn": "A00005",
@@ -114,7 +123,8 @@
     "queue":"A2.5",
       "remarks":"For Annual Physical Examination",
     "taskType":"General Checkup",
-     "locationType":"Prison Cell"
+     "locationType":"Prison Cell",
+      "appointmentTime": "2021-06-07T10:40:07.045Z"
   },
   {
     "mrn": "A00006",
@@ -133,7 +143,8 @@
     "queue":"A2.6",
       "remarks":"For Annual Physical Examination",
     "taskType":"General Checkup",
-     "locationType":"Prison Cell"
+     "locationType":"Prison Cell",
+      "appointmentTime": "2021-06-07T11:40:07.045Z"
   },
   {
     "mrn": "A00007",
@@ -152,7 +163,8 @@
     "queue":"A2.7",
       "remarks":"For Annual Physical Examination",
     "taskType":"General Checkup",
-     "locationType":"Sick Bay"
+     "locationType":"Sick Bay",
+      "appointmentTime": "2021-06-07T12:40:07.045Z"
   },
   {
     "mrn": "A00008",
@@ -171,7 +183,8 @@
     "queue":"A2.8",
       "remarks":"For Annual Physical Examination",
     "taskType":"Lab Result Review",
-    "locationType":"Sick Bay"
+    "locationType":"Sick Bay",
+      "appointmentTime": "2021-06-08T08:40:07.045Z"
   },
   {
     "mrn": "A00009",
@@ -190,7 +203,8 @@
     "queue":"A2.9",
       "remarks":"For Annual Physical Examination",
     "taskType":"Lab Result Review",
-    "locationType":"Sick Bay"
+    "locationType":"Sick Bay",
+      "appointmentTime": "2021-06-08T10:45:07.045Z"
   },
   {
     "mrn": "A00010",
@@ -209,7 +223,8 @@
     "queue":"A2.10",
       "remarks":"For Annual Physical Examination",
     "taskType":"Lab Result Review",
-    "locationType":"Prison Cell"
+    "locationType":"Prison Cell",
+      "appointmentTime": "2021-06-08T11:40:07.045Z"
   },
   {
     "mrn": "A00011",
@@ -227,7 +242,8 @@
     "queue":"A2.11",
       "remarks":"For Annual Physical Examination",
     "taskType":"Lab Result Review",
-    "locationType":"Prison Cell"
+    "locationType":"Prison Cell",
+      "appointmentTime": "2021-06-08T12:45:07.045Z"
   },
   {
     "mrn": "A00012",
@@ -246,7 +262,8 @@
     "queue":"A2.12",
       "remarks":"For Annual Physical Examination",
     "taskType":"Observation/Assessment",
-    "locationType":"Prison Cell"
+    "locationType":"Prison Cell",
+      "appointmentTime": "2021-06-09T08:40:07.045Z"
   },
   {
     "mrn": "A00013",
@@ -265,7 +282,8 @@
     "queue":"A2.13",
       "remarks":"For Annual Physical Examination",
      "taskType":"Observation/Assessment",
-    "locationType":"Prison Cell"
+    "locationType":"Prison Cell",
+      "appointmentTime": "2021-06-09T09:40:07.045Z"
   },
   {
     "mrn": "A00014",
@@ -284,7 +302,8 @@
     "queue":"A2.14",
       "remarks":"For Annual Physical Examination",
      "taskType":"Observation/Assessment",
-    "locationType":"Sick Bay"
+    "locationType":"Sick Bay",
+      "appointmentTime": "2021-06-09T11:40:07.045Z"
   },
   {
     "mrn": "A00015",
@@ -303,7 +322,8 @@
     "queue":"A2.15",
       "remarks":"For Annual Physical Examination",
      "taskType":"Observation/Assessment",
-    "locationType":"Prison Cell"
+    "locationType":"Prison Cell",
+      "appointmentTime": "2021-06-09T11:00:07.045Z"
   },
   {
     "mrn": "A00016",
@@ -322,7 +342,8 @@
     "queue":"A2.16",
     "remarks":"For Annual Physical Examination",
      "taskType":"Observation/Assessment",
-    "locationType":"Sick Bay"
+    "locationType":"Sick Bay",
+      "appointmentTime": "2021-06-09T12:00:07.045Z"
       }
     ]
    

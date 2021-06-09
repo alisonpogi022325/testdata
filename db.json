@@ -11,7 +11,7 @@
      "userid":"0001",
      "username":"john",
      "password":"799ef92a11af918e3fb741df42934f3b568ed2d93ac1df74f1b8d41a27932a6f",
-     "role":"2",
+     "role":2,
      "fullname":"John Doe",
       "position":"Nurse"
     },
@@ -19,7 +19,7 @@
        "userid":"0002",
        "username":"angkianchuan",
      "password":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
-     "role":"1",
+     "role":1,
      "fullname":"Ang Kian Chuan",
        "position":"MD, General Practitioner"
     }

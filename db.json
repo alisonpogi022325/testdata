@@ -188,29 +188,7 @@
       "birthDate":"1998-06-07",
      "lastDateVisit":"2021-06-07T03:39:07.045Z"
   },
-  {
-      "role":1,
-    "mrn": "A00008",
-    "name": "Johnny Sy",
-    "age": 22,
-    "gender": "M",
-    "nric": "S6729825Z",
-    "status": 1,
-    "cell": "Blk03C011",
-    "diagnosis": "Allergic rhinitis",
-    "location": "101 A",
-    "time": "10:00 AM - 10:30 AM",
-    "description": "MRI Scan Result Assesment",
-    "dateCreated": "2021-06-11T03:39:07.045Z",
-    "ward":"WARD21-243-30",
-    "queue":"A2.8",
-      "remarks":"For Annual Physical Examination",
-    "taskType":"Lab Result Review",
-    "locationType":"Sick Bay",
-      "appointmentTime": "2021-06-08T08:40:07.045Z",
-      "birthDate":"1998-06-07",
-     "lastDateVisit":"2021-06-07T03:39:07.045Z"
-  },
+
   {
       "role":1,
     "mrn": "A00009",

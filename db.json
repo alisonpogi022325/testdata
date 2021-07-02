@@ -1,7 +1,7 @@
 {
   "response": {
     "ok": 200,
-    "notFound": 405,
+    "notFound": 404,
     "email": "john.doe@gmail.com"
   },
   "users": [

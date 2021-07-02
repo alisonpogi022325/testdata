@@ -1,7 +1,7 @@
 {
   "response": {
     "ok": 200,
-    "notFound": 404,
+    "notFound": 405,
     "email": "john.doe@gmail.com"
   },
   "users": [
@@ -160,7 +160,7 @@
       "age": 27,
       "gender": "M",
       "nric": "S6729825B",
-      "status": 6,
+      "status": 2,
       "cell": "Blk03C010",
       "diagnosis": "Acute tonsilitis",
       "location": "101 A",

@@ -102,13 +102,13 @@
        "physician":"Ang Kian Chuan"
     },
     {
-      "role": 1,
+      "role": 2,
       "mrn": "A000014",
       "name": "May Li",
       "age": 59,
       "gender": "F",
       "nric": "S6729825B",
-      "status": 4,
+      "status": 2,
       "cell": "Blk03C08",
       "diagnosis": "Fever, Fatigue",
       "location": "103 A",

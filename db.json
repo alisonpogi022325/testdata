@@ -20,6 +20,21 @@
       "role": 1,
       "fullname": "Ang Kian Chuan",
       "position": "MD, General Practitioner"
+    },
+     {
+        """"UserProfileID"""": """"9567c7ec-e453-4dd1-8772-e4e8c00191e1"""",
+        """"Title"""": """""""",
+        """"Name"""": """"Chong Wai Keong bin Tan User"""",
+        """"UserCode"""": """"C1Admin_05"""",
+          """"password"""": """"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"""",
+        """"DOB"""": """"1980-12-12T00:00:00"""",
+        """"IsActive"""": true,
+        """"CreateDate"""": """"2016-08-30T17:31:36.247"""",
+        """"GenderFK"""": """"00000000-0000-0000-0000-000000000001"""",
+        """"UserAccountNo"""": """"S5100026I"""",
+        """"EffectiveStartDate"""": """"2017-02-08T22:35:21.863"""",
+        """"EffectiveEndDate"""": """"2099-12-31T00:00:00"""",
+        """"Designation"""": """"Doctor"""",
     }
   ],
   "patients": [
